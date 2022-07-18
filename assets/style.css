@@ -1,0 +1,50 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.bg-jumbo {
+    background-color: #293241;
+}
+
+.bg-purple {
+    background-color: #ee6c4d;
+}
+
+.bg-tan {
+    background-color: #98c1d9;
+}
+
+.bg-blue {
+    background-color: #3d5a80;
+    color: #ffffff;
+}
+
+.bg-yellow {
+    background-color: #000000;
+}
+
+.bg-red {
+    background-color: #ee6c4d;
+}
+
